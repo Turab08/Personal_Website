@@ -1,13 +1,30 @@
-title: "Personal Website"
-description: "A clean, minimal Jekyll site"
-baseurl: ""
-url: ""
+title: "Turab Hasanli"
+description: "My Personal Website"
+
+# Site URLs: keep `baseurl` empty for a user/org site (root),
+# and set `baseurl: "/Personal_Website"` when publishing as a
+# repository project page. Templates should use `| relative_url`.
+url: "https://Turab08.github.io" # e.g. https://turab08.github.io  (leave blank for local)
+baseurl: "/Personal_Website"    # set to "/Personal_Website" if deploying to repo page
+
+lang: "en-US"
+timezone: "UTC"
+
+# Markdown engine
 markdown: kramdown
+
+# Keep theme null (we ship our own CSS) and only use GitHub Pages
+# compatible plugins listed below. Avoid custom plugins for GH Pages.
 theme: null
-plugins: []
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Permalinks and pagination
 permalink: /:title/
 paginate: 5
 
+# Site navigation (used by `_includes/nav.html`)
 nav:
   - title: "Home"
     url: /
@@ -18,4 +35,48 @@ nav:
   - title: "Resume"
     url: /resume/
 
-# Compatible with GitHub Pages: avoid custom plugins.
+# Author / social metadata (used by SEO tag and templates)
+author:
+  name: "Turab Hasanli"
+  email: ""
+  twitter: ""
+  github: "Turab08"
+
+# Defaults for collections (automatically apply layouts)
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+
+# Files and folders to exclude from the generated site
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - README.md
+  - LICENSE
+
+# Small SEO-related defaults (jekyll-seo-tag will use these)
+title_separator: "|"
+twitter: ""
+repository: "Turab08/Personal_Website"
+
+# Build options
+safe: true
+strict_front_matter: false
+
+# Notes:
+# - Use `{{ '/assets/css/style.css' | relative_url }}` in templates so
+#   links work whether `baseurl` is empty or set to "/Personal_Website".
+# - For a seamless workflow you can create a second config file
+#   `_config_prod.yml` that only sets `baseurl: "/Personal_Website"`
+#   and publish with:
+#     bundle exec jekyll build --config _config.yml,_config_prod.yml
