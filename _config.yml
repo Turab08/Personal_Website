@@ -1,0 +1,21 @@
+title: "Personal Website"
+description: "A clean, minimal Jekyll site"
+baseurl: ""
+url: ""
+markdown: kramdown
+theme: null
+plugins: []
+permalink: /:title/
+paginate: 5
+
+nav:
+  - title: "Home"
+    url: /
+  - title: "About"
+    url: /about/
+  - title: "Projects"
+    url: /projects/
+  - title: "Resume"
+    url: /resume/
+
+# Compatible with GitHub Pages: avoid custom plugins.

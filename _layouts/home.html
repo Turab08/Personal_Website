@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<header class="home-hero">
+  <div class="container">
+    <h1>{{ site.title }}</h1>
+    <p class="tagline">{{ site.description }}</p>
+    <p><a class="cta" href="{{ '/projects/' | relative_url }}">Explore Projects</a></p>
+  </div>
+</header>
+
+<section class="container recent-posts">
+  <h2>Latest Posts</h2>
+  <ul>
+    {% for post in site.posts limit:5 %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a> — <time>{{ post.date | date: "%b %-d, %Y" }}</time></li>
+    {% endfor %}
+  </ul>
+</section>
