@@ -1,0 +1,7 @@
+# Production overrides for repository Pages deployment
+# Set only the values that differ from `_config.yml`.
+
+baseurl: "/Personal_Website"
+url: "https://Turab08.github.io"
+
+# If you want absolute URLs in RSS or sitemaps, keep `url` set.
