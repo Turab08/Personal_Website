@@ -27,7 +27,7 @@ jobs:
           bundle install
 
       - name: Build site
-        run: bundle exec jekyll build --config _config.yml,_config_prod.yml
+        run: bundle exec jekyll build
 
       - name: Upload _site artifact
         uses: actions/upload-pages-artifact@v1
