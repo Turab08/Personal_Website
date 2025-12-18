@@ -12,12 +12,10 @@ title: Home
       
       <div class="hero-text">
         <h1>Hi, I'm Turab Hasanli</h1>
-        <p class="tagline">Computer Science Student & Aspiring Developer</p>
+        <p class="tagline">Computer Science Student & Game Developer</p>
         
         <div class="intro">
-          <p>I'm a passionate computer science student with a keen interest in software development, web technologies, and problem-solving. Currently expanding my skills through hands-on projects and continuous learning.</p>
-          
-          <p>When I'm not coding, you'll find me exploring new technologies, contributing to open-source projects, or diving deep into algorithms and data structures.</p>
+          <p>IHi! I’m a student and game development enthusiast who loves creating interactive experiences and teaching others how games are made. I run a school game development club, where I help beginners learn programming, design, and creative problem-solving through hands-on projects. I’m especially interested in storytelling, gameplay mechanics, and using games as a tool for learning and creativity.</p>
         </div>
         
         <div class="cta-buttons">
@@ -34,18 +32,18 @@ title: Home
     <h2>What I'm Working On</h2>
     <div class="highlights-grid">
       <div class="highlight-card">
-        <h3>🎓 Learning</h3>
-        <p>Expanding my knowledge in full-stack development, algorithms, and modern web frameworks.</p>
+        <h3>💻 Coding</h3>
+        <p>Building web applications, learning new programming languages, and solving algorithmic challenges to strengthen my development skills.</p>
       </div>
       
       <div class="highlight-card">
-        <h3>💻 Building</h3>
-        <p>Creating personal projects to apply theoretical knowledge and build a strong portfolio.</p>
+        <h3>🎵 Music</h3>
+        <p>Exploring music production, composition, and the intersection of technology and creative expression through digital audio.</p>
       </div>
       
       <div class="highlight-card">
-        <h3>🚀 Growing</h3>
-        <p>Actively participating in coding challenges and contributing to the developer community.</p>
+        <h3>🎮 Game Development</h3>
+        <p>Creating interactive experiences, teaching game development at my school club, and exploring storytelling through gameplay mechanics.</p>
       </div>
     </div>
   </div>
