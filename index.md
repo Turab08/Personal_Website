@@ -152,7 +152,7 @@ title: Home
 .highlights-section h2 {
   text-align: center;
   font-size: 2rem;
-  color: #111827;
+  color: #ffffff;
   margin-bottom: 3rem;
 }
 
