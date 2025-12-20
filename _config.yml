@@ -32,8 +32,8 @@ nav:
     url: /about/
   - title: "Projects"
     url: /projects/
-  - title: "Resume"
-    url: /resume/
+  - title: "Blog"
+    url: /blog/
 
 # Author / social metadata (used by SEO tag and templates)
 author:
