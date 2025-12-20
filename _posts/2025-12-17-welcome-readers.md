@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome Readers to My Site"
+title: "Welcome!"
 date: 2025-12-17 10:00:00 -0000
 excerpt: "Hello and welcome to my personal website! I'm excited to share my journey in game development, programming, and creative projects with you."
 ---
