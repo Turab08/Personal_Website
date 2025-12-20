@@ -44,18 +44,18 @@ permalink: /projects/
       <div class="projects-grid">
         <div class="project-card coming-soon">
           <div class="project-content">
-            <h3>Web Development Portfolio</h3>
-            <p>A collection of web applications built with modern technologies including HTML, CSS, JavaScript, and Jekyll. Showcasing responsive design and clean code practices.</p>
-            <div class="project-status">
-              <span class="status-badge">In Development</span>
+            <h3>Published Games on Itch.io</h3>
+            <p>A collection of games I've created and published on itch.io, showcasing different mechanics, art styles, and gameplay concepts. Each game represents a learning milestone in my game development journey.</p>
+            <div class="project-links">
+              <a href="https://jit-games.itch.io/" target="_blank" class="project-link">View Games</a>
             </div>
           </div>
         </div>
 
         <div class="project-card coming-soon">
           <div class="project-content">
-            <h3>Music & Technology Integration</h3>
-            <p>Exploring the intersection of music production and programming through digital audio projects and interactive sound experiences.</p>
+            <h3>Interactive Game Mechanics</h3>
+            <p>Exploring innovative gameplay mechanics and interactive storytelling through experimental game prototypes and creative coding projects.</p>
             <div class="project-status">
               <span class="status-badge">Coming Soon</span>
             </div>

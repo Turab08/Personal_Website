@@ -15,7 +15,7 @@ title: Home
         <p class="tagline">Computer Science Student & Game Developer</p>
         
         <div class="intro">
-          <p>IHi! I’m a student and game development enthusiast who loves creating interactive experiences and teaching others how games are made. I run a school game development club, where I help beginners learn programming, design, and creative problem-solving through hands-on projects. I’m especially interested in storytelling, gameplay mechanics, and using games as a tool for learning and creativity.</p>
+          <p>Hi! I’m a student and game development enthusiast who loves creating interactive experiences and teaching others how games are made. I run a school game development club, where I help beginners learn programming, design, and creative problem-solving through hands-on projects. I’m especially interested in storytelling, gameplay mechanics, and using games as a tool for learning and creativity.</p>
         </div>
         
         <div class="cta-buttons">
@@ -33,7 +33,7 @@ title: Home
     <div class="highlights-grid">
       <div class="highlight-card">
         <h3>💻 Coding</h3>
-        <p>Building web applications, learning new programming languages, and solving algorithmic challenges to strengthen my development skills.</p>
+        <p>Building games with Unity and C#, learning programming through interactive projects, and solving game development challenges.</p>
       </div>
       
       <div class="highlight-card">

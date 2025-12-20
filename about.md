@@ -25,10 +25,10 @@ permalink: /about/
           <h3>Computer Science Studies</h3>
           <p class="education-details">Currently pursuing computer science education with focus on:</p>
           <ul>
-            <li>Software Development & Programming</li>
+            <li>Game Development & Design</li>
+            <li>Programming with C# & Unity</li>
             <li>Algorithms & Data Structures</li>
-            <li>Web Technologies</li>
-            <li>Game Development</li>
+            <li>Interactive Storytelling</li>
           </ul>
         </div>
       </section>
@@ -49,10 +49,10 @@ permalink: /about/
           <div class="skill-category">
             <h3>Technologies & Tools</h3>
             <ul>
-              <li>Git & GitHub</li>
-              <li>Jekyll</li>
               <li>Unity Game Engine</li>
-              <li>Web Development</li>
+              <li>Git & GitHub</li>
+              <li>Game Design Tools</li>
+              <li>Itch.io Publishing</li>
             </ul>
           </div>
           
@@ -86,12 +86,12 @@ permalink: /about/
         <div class="experience-item">
           <h3>Personal Projects</h3>
           <p class="experience-role">Independent Learning • Ongoing</p>
-          <p>Continuously working on personal coding projects to expand my skills and explore new technologies. From web applications to game prototypes, each project teaches me something new.</p>
+          <p>Continuously working on personal game development projects to expand my skills and explore new mechanics. From simple prototypes to published games on itch.io, each project teaches me something new about game design and programming.</p>
           <ul>
-            <li>Building responsive web applications</li>
-            <li>Creating interactive game prototypes</li>
-            <li>Experimenting with music and technology integration</li>
-            <li>Contributing to open-source projects</li>
+            <li>Creating and publishing games on itch.io</li>
+            <li>Developing interactive game prototypes</li>
+            <li>Experimenting with music and game integration</li>
+            <li>Learning from game development community</li>
           </ul>
         </div>
       </section>
