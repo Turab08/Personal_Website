@@ -102,6 +102,8 @@ permalink: /about/
 <style>
 .about-page {
   padding: 2rem 0 4rem;
+  background: #111827;
+  min-height: 100vh;
 }
 
 .container {
@@ -117,13 +119,13 @@ permalink: /about/
 
 .page-header h1 {
   font-size: 2.5rem;
-  color: #111827;
+  color: #f9fafb;
   margin-bottom: 0.5rem;
 }
 
 .page-subtitle {
   font-size: 1.25rem;
-  color: #6b7280;
+  color: #9ca3af;
   margin: 0;
 }
 
@@ -137,14 +139,14 @@ permalink: /about/
 
 .about-section h2 {
   font-size: 1.75rem;
-  color: #111827;
+  color: #f9fafb;
   margin-bottom: 1.5rem;
-  border-bottom: 2px solid #e5e7eb;
+  border-bottom: 2px solid #374151;
   padding-bottom: 0.5rem;
 }
 
 .about-section p {
-  color: #4b5563;
+  color: #d1d5db;
   margin-bottom: 1rem;
 }
 
@@ -154,12 +156,12 @@ permalink: /about/
 
 .education-item h3, .experience-item h3 {
   font-size: 1.25rem;
-  color: #111827;
+  color: #f9fafb;
   margin-bottom: 0.5rem;
 }
 
 .education-details, .experience-role {
-  color: #6b7280;
+  color: #9ca3af;
   font-style: italic;
   margin-bottom: 1rem;
 }
@@ -172,15 +174,15 @@ permalink: /about/
 }
 
 .skill-category {
-  background: #f9fafb;
+  background: #1f2937;
   padding: 1.5rem;
   border-radius: 8px;
-  border: 1px solid #e5e7eb;
+  border: 1px solid #374151;
 }
 
 .skill-category h3 {
   font-size: 1.125rem;
-  color: #111827;
+  color: #f9fafb;
   margin-bottom: 1rem;
 }
 
@@ -191,7 +193,7 @@ permalink: /about/
 }
 
 .skill-category li, .education-item li, .experience-item li {
-  color: #4b5563;
+  color: #d1d5db;
   padding: 0.25rem 0;
   position: relative;
   padding-left: 1.5rem;
