@@ -19,6 +19,7 @@ theme: null
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-paginate
 
 # Permalinks and pagination
 permalink: /:title/
@@ -67,7 +68,6 @@ exclude:
 
 # Small SEO-related defaults (jekyll-seo-tag will use these)
 title_separator: "|"
-twitter: ""
 repository: "Turab08/Personal_Website"
 
 # Build options

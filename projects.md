@@ -20,7 +20,7 @@ permalink: /projects/
           <h3>Project 1</h3>
           <p>An exciting game development project showcasing interactive gameplay mechanics and creative design. This project demonstrates my skills in game programming, level design, and user experience.</p>
           <div class="project-links">
-            <a href="https://www.youtube.com/watch?v=UPXXizUCb7o" target="_blank" class="project-link">Watch Demo</a>
+            <a href="https://www.youtube.com/watch?v=UPXXizUCb7o" target="_blank" rel="noopener noreferrer" class="project-link">Watch Demo</a>
           </div>
         </div>
       </div>
@@ -33,7 +33,7 @@ permalink: /projects/
           <h3>Project 2</h3>
           <p>A comprehensive project that explores advanced programming concepts and innovative solutions. Features custom mechanics, polished visuals, and engaging gameplay elements.</p>
           <div class="project-links">
-            <a href="https://www.youtube.com/watch?v=YWAYIXMufWQ" target="_blank" class="project-link">Watch Demo</a>
+            <a href="https://www.youtube.com/watch?v=YWAYIXMufWQ" target="_blank" rel="noopener noreferrer" class="project-link">Watch Demo</a>
           </div>
         </div>
       </div>
@@ -47,7 +47,7 @@ permalink: /projects/
             <h3>Published Games on Itch.io</h3>
             <p>A collection of games I've created and published on itch.io, showcasing different mechanics, art styles, and gameplay concepts. Each game represents a learning milestone in my game development journey.</p>
             <div class="project-links">
-              <a href="https://jit-games.itch.io/" target="_blank" class="project-link">View Games</a>
+              <a href="https://jit-games.itch.io/" target="_blank" rel="noopener noreferrer" class="project-link">View Games</a>
             </div>
           </div>
         </div>
